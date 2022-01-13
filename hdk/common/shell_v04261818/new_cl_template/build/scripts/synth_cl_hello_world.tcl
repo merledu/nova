@@ -1,0 +1,1 @@
+../../../../../cl/examples/cl_hello_world/build/scripts/synth_cl_hello_world.tcl
